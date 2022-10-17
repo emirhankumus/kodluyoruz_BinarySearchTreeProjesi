@@ -7,5 +7,13 @@ Proje 3
 Burada root=6 olarak belirledim.
 
 >                            6
->                          /   \
->                         5     7
+>                          /   
+>                         5     
+burada 5 sayısı 6 sayısından küçük olduğu için 6 sayısının soluna eklendi.
+
+>                            6
+>                          /   
+>                         5     
+>                        /
+>                       1
+burada 1 sayısı 6 ve 5 den küçük olduğu için 5 sayısının sol tarafına doğru eklenir.
